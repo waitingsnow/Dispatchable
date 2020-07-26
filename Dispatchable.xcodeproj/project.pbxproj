@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B6300FBC24CDA2E900FA228E /* Dispatchable */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Dispatchable; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6300FBF24CDA2E900FA228E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B6300FC624CDA32900FA228E /* Sources */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Sources; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		B6300FBE24CDA2E900FA228E /* Dispatchable */ = {
 			isa = PBXGroup;
 			children = (
+				B6300FC624CDA32900FA228E /* Sources */,
 				B6300FBF24CDA2E900FA228E /* main.swift */,
 			);
 			path = Dispatchable;
